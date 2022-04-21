@@ -58,7 +58,7 @@ body {
 }
 
 .hero {
-  background-image: url(/img/hero-back.jpg);
+  background-image: url(/MindsCrossroads/img/hero-back.jpg);
   background-size: cover;
   padding-bottom: 155px;
 }
@@ -81,14 +81,14 @@ body {
 
 .hero-contacts-tel {
   margin-bottom: 10px;
-  background-image: url(/img/call.png);
+  background-image: url(/MindsCrossroads/img/call.png);
   background-repeat: no-repeat;
   background-position: center left;
   padding-left: 15px;
 }
 
 .hero-contacts-mail {
-  background-image: url(/img/letter.png);
+  background-image: url(/MindsCrossroads/img/letter.png);
   background-repeat: no-repeat;
   background-position: center left;
   padding-left: 18px;
